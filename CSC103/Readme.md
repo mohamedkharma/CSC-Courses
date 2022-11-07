@@ -1,4 +1,4 @@
-# CSC-210
+# CSC-103
 CSc 10300 - Introduction to Computing
 
 # DESCRIPTION
