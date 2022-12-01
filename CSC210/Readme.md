@@ -6,4 +6,6 @@ Computer structure, machine representation of data, addressing and indexing, com
 
 # Notes
 - This course required using an Assembly emulator x86.
-- Used this Vim to write and program both of the projects.
+- Use emu8086 to run the exectable code
+- Project 1 is an emulator for x86, capable of running simple assembler code (binary format).
+- Porject 2 is a 2021 Calender built using assembly language.
